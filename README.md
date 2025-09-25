@@ -47,3 +47,5 @@ Görüntü sınıflandırması için basit bir Convolutional Neural Network (CNN
 ---
 
 Not: Bu proje öğrenme amaçlıdır; Kaggle notebook’ları ve ChatGPT rehberliği ile hazırlanmıştır.
+
+- Kaggle Notebook: [Intel Image Classification on Kaggle](https://www.kaggle.com/code/busrata/intel-image)
